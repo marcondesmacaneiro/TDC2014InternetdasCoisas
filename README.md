@@ -1,4 +1,4 @@
-TDC2014InternetdasCoisas
+TDC2014 - Trilha Internet das Coisas
 ========================
 
-TDC2014InternetdasCoisas
+Aqui estão todos os projeto legados desenvolvidos com Alduino, Kinect, Java, Android, etc...
