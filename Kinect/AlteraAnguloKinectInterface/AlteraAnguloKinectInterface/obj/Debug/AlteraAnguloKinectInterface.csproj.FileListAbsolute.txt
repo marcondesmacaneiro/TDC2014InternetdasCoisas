@@ -1,0 +1,13 @@
+c:\users\arthur\documents\visual studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\bin\Debug\AlteraAnguloKinectInterface.exe.config
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\bin\Debug\AlteraAnguloKinectInterface.exe
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\bin\Debug\AlteraAnguloKinectInterface.pdb
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface.csprojResolveAssemblyReference.cache
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\MainWindow.baml
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\MainWindow.g.cs
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\App.g.cs
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface_MarkupCompile.cache
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface.g.resources
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface.Properties.Resources.resources
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface.csproj.GenerateResource.Cache
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface.exe
+c:\Users\Arthur\Documents\Visual Studio 2012\Projects\AlteraAnguloKinectInterface\AlteraAnguloKinectInterface\obj\Debug\AlteraAnguloKinectInterface.pdb

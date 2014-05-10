@@ -1,0 +1,13 @@
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\bin\Debug\ProjetoKinect.exe.config
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\bin\Debug\ProjetoKinect.exe
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\bin\Debug\ProjetoKinect.pdb
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\MainWindow.baml
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\MainWindow.g.cs
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\App.g.cs
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect_MarkupCompile.cache
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect.g.resources
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect.Properties.Resources.resources
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect.csproj.GenerateResource.Cache
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect.exe
+c:\users\arthur\documents\visual studio 2012\Projects\ProjetoKinect\ProjetoKinect\obj\Debug\ProjetoKinect.pdb

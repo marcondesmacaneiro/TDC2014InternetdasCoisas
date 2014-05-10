@@ -1,0 +1,13 @@
+c:\users\arthur\documents\visual studio 2012\Projects\ColorGame\ColorGame\bin\Debug\ColorGame.exe.config
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\bin\Debug\ColorGame.exe
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\bin\Debug\ColorGame.pdb
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\MainWindow.baml
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\MainWindow.g.cs
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\App.g.cs
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame_MarkupCompile.cache
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame.g.resources
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame.Properties.Resources.resources
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame.csproj.GenerateResource.Cache
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame.exe
+C:\Users\Arthur\Documents\Visual Studio 2012\Projects\ColorGame\ColorGame\obj\Debug\ColorGame.pdb
