@@ -1,0 +1,22 @@
+{
+  "name": "Chrome Arduino",
+  "version": "1.0",
+  "manifest_version": 2,
+  "minimum_chrome_version": "23",
+  "description": "Controle de LED do Arduino via chrome serial api.",
+
+  "app": {
+    "background": {
+      "scripts": [ "background.js" ]
+    }
+  },
+
+  "icons": {
+    "16": "assets/lamp.png",
+    "128": "assets/lamp.png"
+  },
+
+  "permissions": [
+    "serial"
+  ]
+}
