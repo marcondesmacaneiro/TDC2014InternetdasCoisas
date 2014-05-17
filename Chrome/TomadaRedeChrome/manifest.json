@@ -1,9 +1,9 @@
 {
-  "name": "Arduino Blink",
+  "name": "Tomada Rede",
   "version": "1.0",
   "manifest_version": 2,
   "minimum_chrome_version": "23",
-  "description": "Show off serial functionality connecting to Arduino.",
+  "description": "Controla a placa Tomada via rede.",
 
   "app": {
     "background": {
