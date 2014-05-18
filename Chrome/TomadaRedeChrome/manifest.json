@@ -16,7 +16,7 @@
     "128": "assets/lamp.png"
   },
 
-  "permissions": [
-    "serial"
-  ]
+	"permissions": [
+          "http://*/*"
+        ]
 }

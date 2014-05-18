@@ -9,10 +9,9 @@ div#container {
 	position:relative;	
 	margin-left:-200px;
 	width: 400px;
-	height:500px;
+	height:800px;
 	left:50%;
 }
-
 
 #lamp {
 	position:relative;
@@ -26,11 +25,13 @@ div#container {
 	-webkit-transition: all .2s linear;
 }
 .lamp-vermelha {
-	background-image: url("assets/on_r.png");
+	background-image: url("assets/off_r.png");
 }
+
 .lamp-amarela {
-	background-image: url("assets/on_y.png");
+	background-image: url("assets/off_y.png");
 }
+
 .lamp-verde {
-	background-image: url("assets/on_g.png");
+	background-image: url("assets/off_g.png");
 }
